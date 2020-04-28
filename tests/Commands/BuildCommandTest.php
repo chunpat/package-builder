@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Overtrue\Tests\Commands;
+namespace Chunpat\Tests\Commands;
 
-use Overtrue\PackageBuilder\Application;
+use Chunpat\PackageBuilder\Application;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Tester\CommandTester;

@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Overtrue\PackageBuilder;
+namespace Chunpat\PackageBuilder;
 
-use Overtrue\PackageBuilder\Commands\BuildCommand;
+use Chunpat\PackageBuilder\Commands\BuildCommand;
 use Symfony\Component\Console\Application as BasicApplication;
 
 /**
